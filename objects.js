@@ -3,6 +3,5 @@ var playlist = {
 };
 
 function updatePlaylist(obj, key, value){
-  meals['second breakfast'] = 'bagel'
-  playlist['Phil Ochs'] = ""
+  playlist['Phil Ochs'] = "Here's to the State of Mississippi"
 }
