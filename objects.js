@@ -3,6 +3,6 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artist, song){
-  Hammock: 'Mysterium';
+  Phil Ochs: "Here's to the State of Mississipi";
   return playlist;
 }
