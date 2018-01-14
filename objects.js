@@ -8,6 +8,6 @@ function updatePlaylist(playlist, artistName, songTitle){
 }
 
 function removeFromPlaylist(playlist, artistName){
-  delete['Phil Ochs'];
+  delete.Kanye: "Gold Digger"
   return playlist;
 }
